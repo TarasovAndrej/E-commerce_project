@@ -1,6 +1,6 @@
 ### Проект выполнен на Python
 ### Стэк
-pandas, requests, matplotlib, plotly, seaborn 
+`pandas`, `requests`, `matplotlib`, `plotly`, `seaborn` 
 <hr>
 
 ### В ходе проекта нужно проанализировать данные и ответить на следующие вопросы:
