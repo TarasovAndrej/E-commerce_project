@@ -1,4 +1,4 @@
-### Проект выполнен на Python
+### Проект выполнен на Python использованием Jupyter Notebook.
 ### Стэк
 `pandas`, `requests`, `matplotlib`, `plotly`, `seaborn` 
 <hr>
